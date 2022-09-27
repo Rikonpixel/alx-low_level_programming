@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
 * _strstr - first occurrence of the substring needle in the string haystack
